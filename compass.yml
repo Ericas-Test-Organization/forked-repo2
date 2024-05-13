@@ -10,7 +10,3 @@ links: []
 relationships: {}
 labels:
   - synced-with-jsm
-customFields:
-  - name: test field
-    type: text
-    value: null
