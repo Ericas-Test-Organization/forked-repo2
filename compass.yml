@@ -1,0 +1,16 @@
+name: asdf
+id: 'ari:cloud:compass:f23407d4-1f9e-4b43-988f-4afbd4085910:component/2e6959f4-a440-4f58-91bd-a592816fe99c/61d2e7ba-6a95-4f08-98b2-a0e359d6600d'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links: []
+relationships: {}
+labels:
+  - synced-with-jsm
+customFields:
+  - name: test field
+    type: text
+    value: null
